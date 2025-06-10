@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type="text"], input[type="number"] {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #5f7de0;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+ol {
+    list-style-type: decimal;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
